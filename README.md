@@ -1,5 +1,6 @@
 GensoukyouPlus
-
+This mod requires Gensoukyou Manufacture. 
+https://fractalsoftworks.com/forum/index.php?topic=28396.0
 
 This started as an idea to expand the Gensoukyou Manufacture starsector mod with more ships. I asked permission to expand the mod. 
 I only completed a capital, but I'm still sharing it.
