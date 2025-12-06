@@ -1,0 +1,35 @@
+{
+  "id": "gensoukyouplus",
+  "name": "GensoukyouPlus",
+  "author": "Daruda",
+  "utility": false,
+  "version": {
+    "major": "0",
+    "minor": "1",
+    "patch": "0"
+  },
+  "description": "Extension for Gensoukyou's faction",
+  "gameVersion": "0.98a-RC5",
+  "jars": [
+    "jars/GensoukyouPlus.jar"
+  ],
+  "modPlugin": "gensoukyouplus.GensoukyouPlusModPlugin",
+  "dependencies": [
+    {
+      "id": "lw_lazylib",
+      "name": "LazyLib",
+    },
+    {
+      "id": "MagicLib",
+
+    },
+    {
+      "id": "shaderLib",
+      "name": "GraphicsLib",
+    },
+    {
+      "id": "FantasyM",
+      "name": "Gensoukyou Manufacture"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gensoukyou_Daze">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FantasyM/jars/Gensoukyou_Daze.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

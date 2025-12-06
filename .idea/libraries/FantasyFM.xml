@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FantasyFM">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../FantasyM/src" />
+    </SOURCES>
+  </library>
+</component>

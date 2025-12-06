@@ -1,0 +1,38 @@
+{
+	"id":"GENP_MikoLunaticBuiltIn",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"ENERGY",
+	"size":"LARGE",
+	"turretSprite":"",
+	"turretGlowSprite":"",
+	"hardpointSprite":"",
+	"hardpointGlowSprite":"",
+	"turretOffsets":[7, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[18, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"LINKED", # or LINKED.  whether barrels fire at the same time or alternate.
+	#"animationType":"GLOW",
+	"animationType":"MUZZLE_FLASH",
+	"muzzleFlashSpec": {
+		"length": 35,
+		"spread": 30,
+		"particleSizeMin": 5,
+		"particleSizeRange": 5,
+		"particleDuration": 0.3,
+		"particleCount": 35,
+		"particleColor": [
+			224,
+			79,
+			50,
+			220
+		]
+	},
+	#"glowColor":[100,100,255,225],
+	"autocharge":true,
+	"textureType": ROUGH,
+	#"interruptibleBurst":true,
+	"projectileSpecId":"GENP_MikoLunaticBuiltIn_shot",  # projectile that will be fired
+	#"fireSoundOne":"cr_allied_malfunction",
+	"fireSoundTwo":"FM_IcicleFall_fire"
+}
